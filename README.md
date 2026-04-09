@@ -41,7 +41,7 @@ If booking something in an app is fast and easy — that’s good UX.
 
 No — they are NOT the same.
 <div style="text-align:center;">
-      <img src="" alt="UI/UX Design differences" width="500px" height="400px"/>
+      <img src="https://github.com/Senura-Peiris/UI-UX-Design/blob/main/uivsux.png" alt="UI/UX Design differences" width="500px" height="400px"/>
 </div>
 
 👉 Simple way to remember:
