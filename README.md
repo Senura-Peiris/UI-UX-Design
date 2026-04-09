@@ -32,7 +32,7 @@ c. User journey (steps to complete a task)
 d. Performance and usability
 
 <div style="text-align: center;">
-      <img src="" alt="UI/UX Design Connection to other developments" width="500px" height="400px"/>
+      <img src="https://github.com/Senura-Peiris/UI-UX-Design/blob/main/UIUX%20Connection.png" alt="UI/UX Design Connection to other developments" width="500px" height="400px"/>
 </div>
 👉 Example:
 If booking something in an app is fast and easy — that’s good UX.
