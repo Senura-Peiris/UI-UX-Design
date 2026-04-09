@@ -54,7 +54,7 @@ But they work together to create a great product.
 
 A UI/UX designer usually does:
 
-### 🔍 1. Research
+### 1. Research
 1. Understand users
 2. Identify problems
 3. Study competitors
