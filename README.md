@@ -1,11 +1,11 @@
 <img src="" alt="UI/UX design image" width="100%" height="40px">
-# UI-UX-Design
 
+## UI/UX Design
 UI/UX design is a very important field in modern tech, especially if you’re interested in web apps, mobile apps, or product design. Let’s break it down in a simple, clear, and practical way so you really understand it 👇
 
-## 🔷 What is UI/UX Design?
+## What is UI/UX Design?
 
-## ✅ UI (User Interface) Design
+## UI (User Interface) Design
 
 UI is about how the product looks.
 
@@ -17,10 +17,10 @@ c. Typography (fonts)
 d. Layout (where things are placed)
 e. Icons and visuals
 
-👉 Example:
+Example:
 When you open an app and see a beautiful login screen with neat buttons — that’s UI design.
 
-## ✅ UX (User Experience) Design
+## UX (User Experience) Design
 
 UX is about how the product feels and works.
 
@@ -34,9 +34,9 @@ d. Performance and usability
 👉 Example:
 If booking something in an app is fast and easy — that’s good UX.
 
-## 🔥 Are UI and UX the Same?
+## Are UI and UX the Same?
 
-❌ No — they are NOT the same.
+No — they are NOT the same.
 
       UI	                       UX
 Visual design	            Experience design
@@ -50,7 +50,7 @@ Colors, fonts, layout	    Flow, logic, user journey
 
 But they work together to create a great product.
 
-🧠 What Does a UI/UX Designer Do?
+## What Does a UI/UX Designer Do?
 
 A UI/UX designer usually does:
 
@@ -59,14 +59,14 @@ A UI/UX designer usually does:
 2. Identify problems
 3. Study competitors
    
-### 🧭 2. Wireframing
+### 2. Wireframing
 Create rough layouts (like blueprints)
-🎨 3. Designing (UI part)
+### 3. Designing (UI part)
 a. Create attractive screens
 b. Choose colors, fonts, spacing
-### 🔄 4. Prototyping
+### 4. Prototyping
 a. Make clickable demo designs
-### 🧪 5. Testing
+### 5. Testing
 a. Check if users can use it easily
 b. Improve based on feedback
 
@@ -110,9 +110,9 @@ c. Canada
 
 pay very high for skilled designers.
 
-## 🚀 Is UI/UX a Good Career?
+## Is UI/UX a Good Career?
 
-✅ YES, very good because:
+ YES, very good because:
 
 a. High demand worldwide 🌍
 b. Remote work opportunities 💻
@@ -140,7 +140,7 @@ a. Find food 🍔
 b. Order quickly 🛒
 c. Pay easily 💳
 
-## 🧩 Final Summary
+## Final Summary
 a. UI = Visual design
 b. UX = User experience
 c. Both together = Great product
