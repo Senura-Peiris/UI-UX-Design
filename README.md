@@ -1,4 +1,4 @@
-<img src="https://github.com/Senura-Peiris/UI-UX-Design/blob/main/UIUXdesign.png" alt="UI/UX design image" width="100%" height="70px">
+<img src="https://github.com/Senura-Peiris/UI-UX-Design/blob/main/UIUXdesign.png" alt="UI/UX design image" width="100%" height="400px">
 
 ## UI/UX Design
 UI/UX design is a very important field in modern tech, especially if you’re interested in web apps, mobile apps, or product design. Let’s break it down in a simple, clear, and practical way so you really understand it 👇
