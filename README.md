@@ -31,7 +31,7 @@ b. Navigation (how easily users move around)
 c. User journey (steps to complete a task)
 d. Performance and usability
 
-<div style="text-align: center;">
+<div style="align-items: center;">
       <img src="https://github.com/Senura-Peiris/UI-UX-Design/blob/main/UIUX%20Connection.png" alt="UI/UX Design Connection to other developments" width="500px" height="400px"/>
 </div>
 👉 Example:
@@ -57,7 +57,7 @@ But they work together to create a great product.
 ## What Does a UI/UX Designer Do?
 
 A UI/UX designer usually does:
-<div style="text-align: center;">
+<div style="align-items: center;">
       <img src="" alt="UI/UX Design steps" width="500px" height="400px"/>
 </div>
 
